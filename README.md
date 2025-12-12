@@ -9,7 +9,7 @@ Void. Implemented with a unique password-based Global Unique Pseudonym (GUP) sys
 
 **GUP (Global Unique Pseudonym) System:**
 
-Password-Based Anonymity: Users gain a persistent, verifiable identity (GUP, e.g., ABC-123) by entering a secret password, without the need for traditional registration or email.
+**Password-Based Anonymity:** Users gain a persistent, verifiable identity (GUP, e.g., ABC-123) by entering a secret password, without the need for traditional registration or email.
 
 **Guaranteed Uniqueness:** Each password generates a globally unique identifier (across all boards), preventing pseudonym squatting and ensuring authorship proof.
 
