@@ -1,4 +1,4 @@
-<alt="" align="center" width="225" height="150"><h1 align="center">VoidBoard</h1>
+<h1 align="center">VoidBoard</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
 ## Project Description
